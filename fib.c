@@ -16,3 +16,10 @@ int _start() {
 	int val = fib(40);
 	return val;
 }
+
+/*
+User _start return value = 102334155
+Total page faults: 3
+Total page allocations: 3
+Total internal fragmentation: 11.82 KB
+*/
