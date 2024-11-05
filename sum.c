@@ -7,3 +7,10 @@ int _start() {
     sum += A[i];
   return sum;
 }
+
+/*
+User _start return value = 2048
+Total page faults: 3
+Total page allocations: 3
+Total internal fragmentation: 11.89 KB
+*/
